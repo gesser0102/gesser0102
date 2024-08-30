@@ -5,7 +5,7 @@
 
 - 💻 My personel website [rgesser.tech](https://rgesser.tech)
 
-- 📫 Get in Touch **rodrigo@rgesser.tech**
+- 📫 Get in Touch **gesserrodrigo@hotmail.com**
 
 
 
