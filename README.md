@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Rodrigo</h1>
 <h3 align="center">I'm a Developer Full-Stack</h3>
 
-- 🌱 I’m currently learning everything about frontend
 
 - 💻 My personel website [rgesser.tech](https://rgesser.tech)
 
