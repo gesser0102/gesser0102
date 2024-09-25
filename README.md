@@ -2,8 +2,6 @@
 <h3 align="center">I'm a Developer Full-Stack</h3>
 
 
-- 💻 My personel website [rgesser.tech](https://rgesser.tech)
-
 - 📫 Get in Touch **gesserrodrigo@hotmail.com**
 
 
