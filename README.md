@@ -7,3 +7,5 @@
 </p>
 
 <h3 align="left"><a href="https://audityseo.com/" target="blank">Audity SEO</a> — Free SEO Analysis Tool</h3>
+
+<h3 align="left"><a href="https://chromewebstore.google.com/detail/genflow-auto-veo-nano-ban/fpagkjmpjmddakphaldboaleljhggkhe" target="blank">GenFlow</a> - Auto Veo & Nano Banana on Google Flow (Chrome Extension)</h3>
